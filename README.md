@@ -1,0 +1,1 @@
+# teams-sharepoint-access-model
