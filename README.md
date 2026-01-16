@@ -6,7 +6,7 @@ Defines Teams channels and SharePoint permissions for remote teams.
 ## Architecture & Workflows
 
 ### Teams Workflow
-![Teams Workflow](diagram/diagram_1.png)
+![Teams Workflow](diagram/teams_workflow_diagram.png)
 
 ### SharePoint Access Model
 ![SharePoint Access](diagrams/diagram_2.png)
