@@ -6,10 +6,10 @@ Defines Teams channels and SharePoint permissions for remote teams.
 ## Diagrams
 
 ### Teams Collaboration Workflow
-![Teams Workflow](diagram/Teams Workflow Diagram.png)
+![Teams Workflow](Diagram/Teams Workflow Diagram.png)
 
 ### SharePoint Access Model
-![SharePoint Access](diagrams/diagram_2.png)
+![SharePoint Access](Diagram/SharePoint Access Diagram.png)
 
 ### User Onboarding Workflow
-![Onboarding Workflow](diagrams/diagram_3.png)
+![Onboarding Workflow](Diagram/Onboarding Workflow Diagram.png)
