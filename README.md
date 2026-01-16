@@ -3,13 +3,14 @@
 ## Overview
 Defines Teams channels and SharePoint permissions for remote teams.
 
-## Diagrams
+## Architecture & Workflows
 
-### Teams Collaboration Workflow
-![Teams Workflow](Diagram/Teams Workflow Diagram.png)
+### Teams Workflow
+![Teams Workflow](diagrams/diagram_1.png)
 
 ### SharePoint Access Model
-![SharePoint Access](Diagram/SharePoint Access Diagram.png)
+![SharePoint Access](diagrams/diagram_2.png)
 
 ### User Onboarding Workflow
-![Onboarding Workflow](Diagram/Onboarding Workflow Diagram.png)
+![Onboarding Workflow](diagrams/diagram_3.png)
+
